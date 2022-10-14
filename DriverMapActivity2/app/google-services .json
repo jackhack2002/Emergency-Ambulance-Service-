@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "626068924152",
+    "firebase_url": "https://ambulanceapp-fb768-default-rtdb.firebaseio.com",
+    "project_id": "ambulanceapp-fb768",
+    "storage_bucket": "ambulanceapp-fb768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626068924152:android:e577b60e3ef07520cfbd0d",
+        "android_client_info": {
+          "package_name": "com.jack2002.drivermapactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626068924152-po8g6rt265u8bn0gg9oml550vo68q7qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBPkpH0RE7z-V3NUTpyN1epFp1Hwau17k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626068924152-po8g6rt265u8bn0gg9oml550vo68q7qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626068924152:android:94b57d85af019480cfbd0d",
+        "android_client_info": {
+          "package_name": "com.jack2002.miniproject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626068924152-60diuh49elitp9ou2b9sq1absg7cobvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jack2002.miniproject2",
+            "certificate_hash": "7e2ff044ac229de48c6e13cb8379da177d4d759d"
+          }
+        },
+        {
+          "client_id": "626068924152-po8g6rt265u8bn0gg9oml550vo68q7qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBPkpH0RE7z-V3NUTpyN1epFp1Hwau17k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626068924152-po8g6rt265u8bn0gg9oml550vo68q7qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
